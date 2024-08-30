@@ -1,3 +1,6 @@
+body {
+  background-color: rgb(183, 169, 169);
+}
 h1{
     font-size: 50px;
     color: brown;
@@ -25,4 +28,3 @@ h1{
   #icone{
     width: 200px;
   }
-  
