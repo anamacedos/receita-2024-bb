@@ -1,0 +1,28 @@
+h1{
+    font-size: 50px;
+    color: brown;
+    text-align: center;
+    font-family: 'Georgia', serif;
+    
+  }
+  h2{font-size: 30px;
+    color: brown;
+    text-align: center;
+    font-family: 'Georgia', serif;
+  }
+    
+    h3{font-size: 30px;
+      color: brown;
+      text-align: center;
+      font-family: 'Georgia', serif;
+      
+  }
+    
+  #foto{
+    width: 350px;
+    }
+    
+  #icone{
+    width: 200px;
+  }
+  
